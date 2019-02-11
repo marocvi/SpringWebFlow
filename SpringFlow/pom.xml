@@ -37,6 +37,6 @@
 
 	</dependencies>
 	<build>
-		<finalName>SpringFlow</finalName>
+		<finalName>ROOT</finalName>
 	</build>
 </project>
